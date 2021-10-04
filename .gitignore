@@ -1,0 +1,16 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/CleanArchitectureApi/CleanArchitectureApi.Application/bin/Debug/netstandard2.1
+/CleanArchitectureApi/CleanArchitectureApi.Application/obj
+/CleanArchitectureApi/CleanArchitectureApi.Domain/bin/Debug/netstandard2.1
+/CleanArchitectureApi/CleanArchitectureApi.Domain/obj
+/CleanArchitectureApi/CleanArchitectureApi.Infrastructure.Identity/bin/Debug
+/CleanArchitectureApi/CleanArchitectureApi.Infrastructure.Identity/obj
+/CleanArchitectureApi/CleanArchitectureApi.Infrastructure.Persistence/bin/Debug
+/CleanArchitectureApi/CleanArchitectureApi.Infrastructure.Persistence/obj
+/CleanArchitectureApi/CleanArchitectureApi.Infrastructure.Shared/bin/Debug
+/CleanArchitectureApi/CleanArchitectureApi.Infrastructure.Shared/obj
+/CleanArchitectureApi/CleanArchitectureApi.WebApi/bin/Debug
+/CleanArchitectureApi/CleanArchitectureApi.WebApi/obj
